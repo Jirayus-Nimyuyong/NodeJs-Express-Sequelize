@@ -1,0 +1,16 @@
+{
+    "app": {
+        "host": "HOST",
+        "port": "PORT"
+    },
+    "author": {
+        "dev": "AUTHOR"
+    },
+    "db": {
+        "host": "HOST_DB",
+        "dialect": "DIALECT_DB",
+        "user": "USER_DB",
+        "pass": "PASS_DB",
+        "database": "DATABASE_NAME"
+    }
+}
